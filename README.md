@@ -13,13 +13,16 @@ Information about The bot This bot Convert any sentence you want to a qr code,
 
 
 #important
+
 if you dont have any host user free host like 000webhost or others
 
 
 #Contact
+
 for any probilems you can contact me in telegram
 
 username : @dyarikrd
 
 
+credit :
 I'dont write the codes just edit some codes or small things on it
