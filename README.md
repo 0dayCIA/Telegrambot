@@ -11,7 +11,7 @@ you can Convert Any sentence to Qr code with this bot.
 
 3 • go to your host website 
 
-4 • make txt named bot.php
+4 • make file named bot.php
 
 5 • copy/paste all of code in it
 
