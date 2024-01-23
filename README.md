@@ -1,6 +1,9 @@
 # Telegrambot
 
-Information about The bot This bot Convert any sentence you want to a qr code,
+# Information
+you can Convert Any sentence to Qr code with that bot.
+
+# tutorial
 
 1 • Go to @BotFather in telegram
 
@@ -21,14 +24,13 @@ Information about The bot This bot Convert any sentence you want to a qr code,
 
 
 
-#important
+# important
 
 
-if you dont have any host user free host like 000webhost or others
+if you dont have any host usefree host, like 000webhost or others it works perfectly.
 
 
-
-#Contact
+# Contact
 
 for any probilems you can contact me in telegram.👇
 
