@@ -34,8 +34,8 @@ $photo = $message->photo;
 if($tx=="/start"){
 bot('sendmessage',[
 'chat_id'=>$cid,
-    'text'=>"• QRCODE maker
-• sent that sentence you want put it in qr code.
+    'text'=>"• QR code maker🧑‍💻
+• sent that sentence you want put it in qr code🔗🕷️
 
 like👇
 /qr im here" ,
@@ -73,7 +73,7 @@ $error=$api[0]->symbol[0]->error;
 if($error==null){
 bot('sendmessage',[
 'chat_id'=>$cid,
-    'text'=>"🔣the sentence with QR CODE:⤵️
+    'text'=>"🔣the sentence in QR CODE:⤵️
 
  `$text`
 
@@ -108,7 +108,7 @@ $api = array("http://qr-code.ir/api/qr-code?s=5&e=M&t=P&d=$text","http://api.qrs
 bot('sendPhoto',[
 'chat_id'=>$cid,
 "photo"=>$api[0],
-    'caption'=>"sent that sentence you want put it in qr code: *$text*" ,
+    'caption'=>"your sentence in qr code💻: *$text*" ,
 'parse_mode'=>'markdown',
 ]);
 }
