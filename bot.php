@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','6725286497:AAEC86GWoX-t4zLlZXojYwPGSNrSyznj5Vw'); //your bot token
+define('API_KEY','in hereeee!!!!!!'); //your bot token
 $botim = "ChanallBots"; //chanel username
 $admin = array("[*ADMIN*]","",""); //id
    function del($nomi){
