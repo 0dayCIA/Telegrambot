@@ -1,7 +1,7 @@
 # Telegrambot
 
 # Information
-you can Convert Any sentence to Qr code with that bot.
+you can Convert Any sentence to Qr code with this bot.
 
 # tutorial
 
