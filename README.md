@@ -29,9 +29,3 @@ you can Convert Any sentence to Qr code with this bot.
 
 if you dont have any host usefree host, like 000webhost or others it works perfectly.
 
-
-# Contact
-
-for any probilems you can contact me in telegram.👇
-
-username : @dyarikrd
